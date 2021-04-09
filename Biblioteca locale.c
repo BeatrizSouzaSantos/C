@@ -16,3 +16,4 @@ system("pause");
 return 0;
     
 }
+![Locale](https://user-images.githubusercontent.com/80977502/114210474-3320bf80-9936-11eb-927e-0adc7537ce2c.png)
